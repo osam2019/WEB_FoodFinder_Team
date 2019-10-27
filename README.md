@@ -59,6 +59,9 @@ npm run serve
 ### 사이트 접속
 ```
 Web: http://localhost:8080
+데모 관리자 비밀번호: 1234
+데모 가맹점 계정: truck1 / 1234
+
 DB : http://localhost:3000/${TableName}
 ```
 | TableName | Meaning |
